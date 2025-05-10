@@ -1,0 +1,9 @@
+yt-dlp==2023.7.6
+pytube==15.0.0
+colorama==0.4.6
+mutagen==1.47.0
+tqdm==4.66.1
+requests==2.31.0
+pathlib==1.0.1
+shutil==1.7.0
+ctypes-callable==1.0.4 
